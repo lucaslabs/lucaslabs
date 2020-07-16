@@ -1,16 +1,17 @@
-### Hi there 👋
+![Talkin Lucas](https://github.com/lucaslabs/lucaslabs/blob/master/img/Talkin%20Lucas.jpeg)
 
-<!--
-**lucaslabs/lucaslabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Lucas Nobile from Córdoba, Argentina 👋 
 
-Here are some ideas to get you started:
+Doing #Android code and teck talks as a service 🧑🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Google Developers Group Córdoba, Argentina Organizer 🚀
+
+You can find me on:
+
+In: https://www.linkedin.com/in/lucasnobile
+
+Ig: http://instagram.com/lucas.nobile
+
+Tw: https://twitter.com/lucas_nobile 
+
+Yt: https://www.youtube.com/user/lucasnrb
