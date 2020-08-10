@@ -2,7 +2,7 @@
 
 Hi, I am Lucas Nobile from Córdoba, Argentina 👋 
 
-📱 #AndroidDev doing #Kotlin first code | 🗣️ Serial speaker | 🚀 Organizer at GDG Córdoba, Argentina 
+📱 #AndroidDev doing #Kotlin first code | 🎙️ Serial speaker | 🚀 Organizer at GDG Córdoba, Argentina 
 
 You can find me on:
 
