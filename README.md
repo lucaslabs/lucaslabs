@@ -6,6 +6,8 @@ Hi, I am Lucas Nobile from Córdoba, Argentina 👋
 
 You can find me on:
 
-LinkedIn: https://www.linkedin.com/in/lucasnobile
+LinkedIn: https://www.linkedin.com/in/lucasnobile 
+
 Twitter: https://twitter.com/lucas_nobile 
+
 Medium: https://medium.com/@lucasnrb 
