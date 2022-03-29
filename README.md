@@ -1,4 +1,4 @@
-![Talkin Lucas](https://github.com/lucaslabs/lucaslabs/blob/master/img/Profile.jpg)
+![Lucas headshot pro](https://github.com/lucaslabs/lucaslabs/blob/master/img/Lucas%20headshot%20pro.jpg)
 
 Hi, I am Lucas Nobile from Córdoba, Argentina 👋 
 
